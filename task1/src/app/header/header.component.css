@@ -1,0 +1,13 @@
+.header {
+  background-color: orange;
+  height: 100px;
+  width: 100%;
+}
+
+.header-item {
+  margin: auto 20px;
+  height: 40px;
+  width: 100px;
+  font-size: 20px;
+  text-align: center;
+}

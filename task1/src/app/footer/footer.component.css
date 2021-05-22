@@ -1,0 +1,13 @@
+.footer {
+  background-color: lightgreen;
+  height: 200px;
+  width: 100%;
+}
+
+.footer-item {
+  margin-left: 20px;
+  margin-top: 20px;
+  height: 40px;
+  width: 33%;
+  font-size: 20px;
+}
